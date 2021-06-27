@@ -17,5 +17,10 @@
     "帧率计算"
   ],
   "author": "Peter Cheng",
+  "homepage": "https://github.com/peterczg/fps-calculation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterczg/fps-calculation.git"
+  },
   "license": "MIT"
 }
