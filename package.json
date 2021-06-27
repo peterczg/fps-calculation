@@ -1,0 +1,21 @@
+{
+  "name": "fps-calculation",
+  "version": "0.0.1",
+  "description": "A simple api used for calculate the FPS or function call per second.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fps",
+    "fps",
+    "calculation",
+    "帧率",
+    "计算",
+    "计算帧率",
+    "帧率计算"
+  ],
+  "author": "Peter Cheng",
+  "license": "MIT"
+}
