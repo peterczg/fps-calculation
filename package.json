@@ -1,6 +1,6 @@
 {
   "name": "fps-calculation",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple api used for calculating the FPS or function call per second.",
   "main": "index.js",
   "type": "module",
