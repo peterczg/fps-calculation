@@ -1,5 +1,5 @@
 /**
- * calculate the fps or function call per sec.
+ * Calculate the fps or function call per sec.
  * @param {function} cb
  * @param {object} context
  * @param {boolean} enableConsole log the current FPS

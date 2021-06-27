@@ -41,7 +41,7 @@ function cb() {
 }
 
 // Wrap the function and then return a closure
-const wrapCb = calcFrames(cb, this);
+const wrapCb = calcFrames(cb, this, true);
 engine.start(wrapCb);
 
 // Hook function registration below is optional
